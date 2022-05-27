@@ -43,8 +43,8 @@ We have so many large language models from different organizations (T5, GPT-3, P
 They differ in data, training objectives, and other details.
 
 Like how human follow consensus to learn knowledge (e.g. a person can learn facts from what most people say, assuming people are alreay kind of experts), we can
-- treat each model as an expert
-- get the true knowledge by voting from the expert
+- treat each model as an **expert**
+- get the true knowledge by **voting from the expert**
 
 
 
